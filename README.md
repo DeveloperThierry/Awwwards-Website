@@ -13,8 +13,8 @@ Welcome to the Zentry-Inspired Award-Winning Website! 🚀 This project empowers
 
 ### 🖼️ Demo
 
-![Demo Video](path/to/demo.mp4)
-![Hero Screenshot](path/to/hero.png)
+![Demo Video](public/README/demo.mp4)
+![Hero Screenshot](public/README/hero.png)
 ---
 
 ## 💡 Project Overview
