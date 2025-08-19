@@ -77,13 +77,6 @@ Visit [http://localhost:5173](http://localhost:5173) in your browser to see the 
 
 ---
 
-## 📦 Assets & Usage
-
-- Assets (images, fonts, videos) are included for demo purposes and provided by Zentry. For commercial or public projects, replace these with your own, copyright-free materials.
-- All design credits belong to [Zentry.com](https://zentry.com/). This educational project is not affiliated with or endorsed by Zentry.
-
----
-
 ## 🙏 Acknowledgements
 
 A huge thanks to:
