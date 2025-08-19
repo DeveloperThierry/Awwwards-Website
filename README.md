@@ -1,25 +1,18 @@
-<div align="center">
-  <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
-    <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner" width="100%" />
-  </a>
-</div>
-
-<br />
-
 # 🏆 Zentry-Inspired Awwwards Website
 
 > **An immersive, animation-rich React site inspired by [Zentry.com](https://zentry.com/)**  
 > Build a stunning, scroll-triggered, responsive site with modern UI/UX and cutting-edge web animations.
 
----
 
-## 🎬 Demo
+![Demo Images](public/README/Hero.png)  
+![Demo Images](public/README/AnimatedTitle.png)  
+![Demo Images](public/README/About.png)  
+![Demo Images](public/README/Features.png)  
+![Demo Images](public/README/Story.png)  
+![Demo Images](public/README/Contact.png)  
 
-<div align="center">
-  <img src="public/README/hero.png" alt="Hero Screenshot" width="80%" />
-</div>
 
----
+
 
 ## 💡 Project Overview
 
