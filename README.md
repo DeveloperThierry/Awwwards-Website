@@ -1,63 +1,72 @@
 <div align="center">
-  <br />
-    <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
-      <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner">
-    </a>
-  <br />
+  <a href="https://youtu.be/zA9r5zTllx4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30" alt="Project Banner" width="100%" />
+  </a>
+</div>
 
-# 🏆 Zentry-Inspired Awwwards Website 🌟
+<br />
 
-Welcome to the Zentry-Inspired Award-Winning Website! 🚀 This project empowers you to craft a visually striking, interactive site packed with immersive animations, modern UI/UX, and top-tier responsiveness. Whether you're seeking to upskill, build a portfolio piece, or simply explore cutting-edge web tech, this step-by-step project is your launchpad to web excellence! ✨
+# 🏆 Zentry-Inspired Awwwards Website
+
+> **An immersive, animation-rich React site inspired by [Zentry.com](https://zentry.com/)**  
+> Build a stunning, scroll-triggered, responsive site with modern UI/UX and cutting-edge web animations.
 
 ---
 
-### 🖼️ Demo
+## 🎬 Demo
 
-![Demo Video](public/README/demo.mp4)
-![Hero Screenshot](public/README/hero.png)
+<div align="center">
+  <img src="public/README/hero.png" alt="Hero Screenshot" width="80%" />
+</div>
+
 ---
 
 ## 💡 Project Overview
 
-This application guides you through building a luxury-inspired website reminiscent of [Zentry.com](https://zentry.com/), the famed Awwwards "Site of the Month." Learn how to implement scroll-triggered, geometric, and 3D animations with React, GSAP, and Tailwind CSS—bringing your web experience to a whole new level. The result? A site that isn’t just functional, but genuinely memorable!
+This project walks you through building a luxury, award-style website inspired by [Zentry.com](https://zentry.com/)—the Awwwards "Site of the Month." Learn to integrate scroll-based animations, 3D effects, and geometric clip paths using **React**, **GSAP**, and **Tailwind CSS**.
+
+The result? A sleek, high-performance experience ready for portfolios, demos, or real-world freelance work.
 
 ---
 
-## 🎯 Key Features
+## ✨ Features
 
-- Scroll-Based Animations 🎬: Eye-catching transitions that respond to user scroll for dynamic storytelling.
-- Clip Path Geometric Effects 🟣: Advanced CSS clip-paths create bold shapes and transitions.
-- 3D Hover Interactions 🌀: Interactive elements tilt and react to your cursor.
-- Integrated Video Sections 📽️: Background and foreground videos blend seamlessly with content.
-- Responsive Excellence 📱: Polished performance across devices, from mobile to desktop.
-- Modular Components 🛠️: Clean, reusable code patterns for maintainability and scale.
-
----
-
-## 🌟 Why It Matters
-
-In a competitive landscape, stunning portfolio pieces set you apart. This project arms you with practical, production-grade skills favored by employers and agencies:
-
-- Stand Out 💼: Award-level design in your resume and client work.
-- Learn Modern Patterns 🚀: Master component-driven architecture, animation, and responsive design.
-- Build Real Value 🧑‍💻: Take away a functional, visually compelling site ready for demo, job search, or freelancing.
+- 🎬 **Scroll-Based Animations** – Engage users with GSAP-triggered scroll interactions
+- 🟣 **Geometric Clip-Path Effects** – CSS-powered transitions for visual impact
+- 🌀 **3D Hover Effects** – React-responsive elements with immersive cursor tracking
+- 📽️ **Integrated Video Sections** – Blend foreground and background videos seamlessly
+- 📱 **Fully Responsive** – Pixel-perfect layout across all screen sizes
+- 🛠️ **Modular Architecture** – Clean, reusable components for scalable code
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Why This Project Matters
 
-- **Frontend:** React.js, Tailwind CSS
-- **Animations:** GSAP (GreenSock Animation Platform)
-- **Build Tool:** Vite
-- **Package Manager:** npm
+In a saturated market, this site helps your work *stand out*:
+
+- 💼 **Portfolio Gold** – Feature-worthy design for job hunting or client pitching
+- 🚀 **Modern Stack** – Master tools used in real-world production workflows
+- 🧑‍💻 **Skill Growth** – Strengthen frontend animation and responsive UI abilities
 
 ---
 
-## ⚡ Quick Start
+## ⚙️ Tech Stack
 
-**Prerequisites:**
+| Layer       | Tools/Frameworks                      |
+|-------------|----------------------------------------|
+| **Frontend**| React.js, Tailwind CSS                 |
+| **Animations** | GSAP (GreenSock Animation Platform) |
+| **Build Tool** | Vite                                |
+| **Package Manager** | npm                           |
+
+---
+
+## 🚀 Quick Start
+
+### Prerequisites
+
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en)
+- [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 
 **To get started:**
