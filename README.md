@@ -10,20 +10,11 @@
 Welcome to the Zentry-Inspired Award-Winning Website! 🚀 This project empowers you to craft a visually striking, interactive site packed with immersive animations, modern UI/UX, and top-tier responsiveness. Whether you're seeking to upskill, build a portfolio piece, or simply explore cutting-edge web tech, this step-by-step project is your launchpad to web excellence! ✨
 
 ---
-<p align="center">
-  <video controls width="600">
-    <source src="../public/README/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
 
-### 🖼️ Hero Screenshot
+### 🖼️ Demo
 
-<p align="center">
-  <img src="../public/README/hero.png" alt="Hero Screenshot" width="600"/>
-</p>
-
-![Preview](https://github.com/user-attachments/assets/ab600f24-f4d9-4cef-8f1e-3fd9194afb30)
+![Demo Video](path/to/demo.mp4)
+![Hero Screenshot](path/to/hero.png)
 ---
 
 ## 💡 Project Overview
